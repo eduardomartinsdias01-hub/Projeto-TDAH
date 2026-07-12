@@ -5,7 +5,7 @@ Projeto desenvolvido explicando resumidamente sobre TDAH, falando o que é, prin
 <a href="">Site Projeto TDAH</a>
 <br>
 <h2>📸 Preview</h2>
-<img src="https://github.com/eduardomartinsdias01-hub/Projeto-TDAH/blob/main/Imagem/capa%20readme.png?raw=true"/>
+<img src="https://github.com/eduardomartinsdias01-hub/Projeto-TDAH/blob/main/imagem/capa%20readme.png?raw=true"/>
 <br>
 <br>
 <h2>✨ Funcionalidades</h2>
